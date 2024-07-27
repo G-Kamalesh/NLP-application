@@ -16,9 +16,9 @@ def change():
 
 @st.cache_resource
 def loading_model():
-    with open(r"K:\data\ML Model\Toxic Tweet\text_model.pkl",'rb') as f:
+    with open("text_model.pkl",'rb') as f:
         model = pickle.load(f)
-    with open(r"K:\data\ML Model\Toxic Tweet\countvectorizer.pkl",'rb') as f:
+    with open("countvectorizer.pkl",'rb') as f:
         vectorizer = pickle.load(f)
 
     return model, vectorizer
