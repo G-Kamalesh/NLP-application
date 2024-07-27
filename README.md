@@ -34,6 +34,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Links
 
--[Toxic-Tweet hosted by Render](https://toxic-tweet-detector-using-nlp.onrender.com)
+- [Toxic-Tweet](https://toxic-tweet-detector-using-nlp.onrender.com)  hosted by Render
 
--[Linkedin](https://www.linkedin.com/in/g-kamaleashwar-28a2802ba/)
+- [Linkedin](https://www.linkedin.com/in/g-kamaleashwar-28a2802ba/)
