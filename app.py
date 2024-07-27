@@ -59,7 +59,7 @@ and receive accurate prediction.""")
 if st.session_state['page'] == 'Model':
     c1.button("Back",on_click=back)
     b = st.text_input("Paste your tweet")
-    v = st.button("Predict")
+    v = st.button("Analyze")
     if v:
         n = vectorizer.transform([b])
         c = model.predict(n)
