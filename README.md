@@ -32,6 +32,8 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 - [Amnesty International: Toxic Twitter](https://www.amnesty.org.ph/campaigns/toxic-twitter/)
 
-## License
+## Links
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+-[Toxic-Tweet hosted by Render](https://toxic-tweet-detector-using-nlp.onrender.com)
+
+-[Linkedin](https://www.linkedin.com/in/g-kamaleashwar-28a2802ba/)
